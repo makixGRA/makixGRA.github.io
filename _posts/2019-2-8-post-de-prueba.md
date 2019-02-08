@@ -9,6 +9,8 @@ tags: [r]
 comments: true
 ---
 
+# POST DE DAVID ROBINSON. PROBANDO COMO QUEDARÍA EN EL BLOG
+
 
 Like a lot of people, I was intrigued by ["I Am Part of the Resistance Inside the Trump Administration"](https://www.nytimes.com/2018/09/05/opinion/trump-white-house-anonymous-resistance.html), an anonymous New York Times op-ed written by a "senior official in the Trump administration". And like many data scientists, I was curious about what role text mining could play. 
 
