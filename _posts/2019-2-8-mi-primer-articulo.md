@@ -11,7 +11,7 @@ PROBANDO PROBANDO
 
 ### Subsección 1
 
-``` r
+{% highlight r %}
 resultados_segunda <- as_tibble(read.csv("ResultadosSegundaDivision.csv"))
 resultados_segunda <- resultados_segunda %>% select(-X)
 
@@ -20,4 +20,4 @@ resultados_segunda$localTeam <- as.character(resultados_segunda$localTeam)
 resultados_segunda$visitorTeam <- as.character(resultados_segunda$visitorTeam)
 abis<-strptime(resultados_segunda$date,format="%Y-%m-%d")
 resultados_segunda$date <- as.Date(abis,format="%Y-%m-%d")
-```
+{% endhighlight %}
