@@ -11,6 +11,8 @@ description: Blog de prueba de GitHub
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/9882884?s=460&v=4
 
+theme: minimal-mistakes-jekyll
+
 #
 # Flags below are optional
 #
