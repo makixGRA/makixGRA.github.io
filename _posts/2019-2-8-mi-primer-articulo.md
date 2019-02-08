@@ -13,7 +13,7 @@ bla bla bla
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-``` java
+``` c++
 int x = 2;
 int y = 1;
 int z = x + y;
