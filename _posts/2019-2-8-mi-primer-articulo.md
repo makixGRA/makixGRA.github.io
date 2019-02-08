@@ -7,11 +7,9 @@ Este es mi primer artículo
 
 ## Sección 1
 
-bla bla bla
+PROBANDO PROBANDO
 
 ### Subsección 1
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
 ``` r
 resultados_segunda <- as_tibble(read.csv("ResultadosSegundaDivision.csv"))
@@ -23,4 +21,3 @@ resultados_segunda$visitorTeam <- as.character(resultados_segunda$visitorTeam)
 abis<-strptime(resultados_segunda$date,format="%Y-%m-%d")
 resultados_segunda$date <- as.Date(abis,format="%Y-%m-%d")
 ```
-
